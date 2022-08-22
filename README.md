@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Crypto React App.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
+
+https://user-images.githubusercontent.com/74823833/185817800-3cf1443c-03df-4919-9a6e-d06f076005ed.webm
 
 ## Available Scripts
 
